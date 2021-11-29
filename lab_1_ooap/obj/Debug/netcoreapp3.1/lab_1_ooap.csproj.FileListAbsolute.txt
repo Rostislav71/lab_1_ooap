@@ -1,0 +1,13 @@
+C:\Users\rosti\source\repos\lab_1_ooap\lab_1_ooap\bin\Debug\netcoreapp3.1\lab_1_ooap.exe
+C:\Users\rosti\source\repos\lab_1_ooap\lab_1_ooap\bin\Debug\netcoreapp3.1\lab_1_ooap.deps.json
+C:\Users\rosti\source\repos\lab_1_ooap\lab_1_ooap\bin\Debug\netcoreapp3.1\lab_1_ooap.runtimeconfig.json
+C:\Users\rosti\source\repos\lab_1_ooap\lab_1_ooap\bin\Debug\netcoreapp3.1\lab_1_ooap.runtimeconfig.dev.json
+C:\Users\rosti\source\repos\lab_1_ooap\lab_1_ooap\bin\Debug\netcoreapp3.1\lab_1_ooap.dll
+C:\Users\rosti\source\repos\lab_1_ooap\lab_1_ooap\bin\Debug\netcoreapp3.1\lab_1_ooap.pdb
+C:\Users\rosti\source\repos\lab_1_ooap\lab_1_ooap\obj\Debug\netcoreapp3.1\lab_1_ooap.csprojAssemblyReference.cache
+C:\Users\rosti\source\repos\lab_1_ooap\lab_1_ooap\obj\Debug\netcoreapp3.1\lab_1_ooap.AssemblyInfoInputs.cache
+C:\Users\rosti\source\repos\lab_1_ooap\lab_1_ooap\obj\Debug\netcoreapp3.1\lab_1_ooap.AssemblyInfo.cs
+C:\Users\rosti\source\repos\lab_1_ooap\lab_1_ooap\obj\Debug\netcoreapp3.1\lab_1_ooap.csproj.CoreCompileInputs.cache
+C:\Users\rosti\source\repos\lab_1_ooap\lab_1_ooap\obj\Debug\netcoreapp3.1\lab_1_ooap.dll
+C:\Users\rosti\source\repos\lab_1_ooap\lab_1_ooap\obj\Debug\netcoreapp3.1\lab_1_ooap.pdb
+C:\Users\rosti\source\repos\lab_1_ooap\lab_1_ooap\obj\Debug\netcoreapp3.1\lab_1_ooap.genruntimeconfig.cache
